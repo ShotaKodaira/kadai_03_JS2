@@ -1,0 +1,586 @@
+/* main */
+.wrapper{
+    text-align: center;
+    width: 500px;
+    box-shadow: 0 0 0 1px  #B1BECB;
+}
+.top{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    
+    display: inline;
+}
+button{
+    border: none;
+    width: 150px;
+    padding: 5px;
+}
+/* チェックイン・アウト */
+.check{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.check-haed{
+    margin: 20px;
+    font-weight: bolder;
+}
+.checkin{
+    background-color: #f19072;
+    color: #fff;
+}
+.checkin:hover {
+    opacity: 0.7;
+}
+.checkout{
+    background-color: #0086CC;
+    color: #fff;
+}
+.checkout:hover {
+    opacity: 0.7;
+} 
+.form-title01{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title02{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title03{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-item{
+    text-align: left;
+    margin-left: 30px;
+}
+.backenter{
+    display: flex;
+    justify-content: space-between;
+}
+.enter{
+    border: none;
+    width: 70px;
+    padding: 5px;
+    margin: 30px;
+    background-color: #fff;
+}
+.enter:hover {
+    opacity: 0.7;
+}
+.back{
+    border: none;
+    width: 70px;
+    padding: 5px;
+    margin: 30px;
+    background-color: #fff;
+}
+.back:hover {
+    opacity: 0.7;
+}
+/* チェックイン・アウト */
+/* 幸せの4つの因子 */
+ .wellbeing{
+    text-align: center;
+    margin-bottom: 120px;
+}
+.wellbeing-head{
+    margin: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.wellbeing1{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing1:hover {
+    opacity: 0.7;
+}
+.wellbeing2{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing2:hover {
+    opacity: 0.7;
+}
+.wellbeing3{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing3:hover {
+    opacity: 0.7;
+}
+.wellbeing4{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing4:hover {
+    opacity: 0.7;
+}
+/* 幸せの4つの因子 */
+/* 〜「やってみよう！」（自己実現と成長）〜 */
+.wellbeing-head1{
+    margin: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.wellbeing11{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing11:hover{
+    opacity: 0.7;
+}
+.wellbeing12{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing12:hover{
+    opacity: 0.7;
+}
+.wellbeing13{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing13:hover{
+    opacity: 0.7;
+}
+.wellbeing14{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing14:hover{
+    opacity: 0.7;
+}
+.wellbeing15{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing15:hover{
+    opacity: 0.7;
+}
+.wellbeing16{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing16:hover{
+    opacity: 0.7;
+}
+.wellbeing17{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing17:hover{
+    opacity: 0.7;
+}
+.wellbeing18{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing18:hover{
+    opacity: 0.7;
+}
+.wellbeing19{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing19:hover{
+    opacity: 0.7;
+}
+.wellbeing110{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing110:hover{
+    opacity: 0.7;
+}
+.wellbeing111{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing111:hover{
+    opacity: 0.7;
+}
+.wellbeing112{
+    background-color: #FEDCBD;
+    margin-bottom: 10px;
+}
+.wellbeing112:hover{
+    opacity: 0.7;
+}
+.form-title11{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title12{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title13{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+/* 〜「やってみよう！」（自己実現と成長）〜 */
+/* 〜「ありがとう！」（繋がりと感謝）〜 */
+.wellbeing-head2{
+    margin: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.wellbeing21{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing21:hover{
+    opacity: 0.7;
+}
+.wellbeing22{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing22:hover{
+    opacity: 0.7;
+}
+.wellbeing23{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing23:hover{
+    opacity: 0.7;
+}
+.wellbeing24{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing24:hover{
+    opacity: 0.7;
+}
+.wellbeing25{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing25:hover{
+    opacity: 0.7;
+}
+.wellbeing26{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing26:hover{
+    opacity: 0.7;
+}
+.wellbeing27{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing27:hover{
+    opacity: 0.7;
+}
+.wellbeing28{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing28:hover{
+    opacity: 0.7;
+}
+.wellbeing29{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing29:hover{
+    opacity: 0.7;
+}
+.wellbeing210{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing210:hover{
+    opacity: 0.7;
+}
+.wellbeing211{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing211:hover{
+    opacity: 0.7;
+}
+.wellbeing212{
+    background-color:#FFEDB3;
+    margin-bottom: 10px;
+}
+.wellbeing212:hover{
+    opacity: 0.7;
+}
+.form-title21{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title22{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title23{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+/* 〜「ありがとう！」（繋がりと感謝）〜 */
+/* 〜「なんとかなる！」（前向きと楽観）〜 */
+.wellbeing-head3{
+    margin: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.wellbeing31{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing31:hover{
+    opacity: 0.7;
+}
+.wellbeing32{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing32:hover{
+    opacity: 0.7;
+}
+.wellbeing33{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing33:hover{
+    opacity: 0.7;
+}
+.wellbeing34{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing34:hover{
+    opacity: 0.7;
+}
+.wellbeing35{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing35:hover{
+    opacity: 0.7;
+}
+.wellbeing36{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing36:hover{
+    opacity: 0.7;
+}
+.wellbeing37{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing37:hover{
+    opacity: 0.7;
+}
+.wellbeing38{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing38:hover{
+    opacity: 0.7;
+}
+.wellbeing39{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing39:hover{
+    opacity: 0.7;
+}
+.wellbeing310{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing310:hover{
+    opacity: 0.7;
+}
+.wellbeing311{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing311:hover{
+    opacity: 0.7;
+}
+.wellbeing312{
+    background-color:#C3EAAB;
+    margin-bottom: 10px;
+}
+.wellbeing312:hover{
+    opacity: 0.7;
+}
+.form-title31{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title32{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title33{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+/* 〜「なんとかなる！」（前向きと楽観）〜 */
+/* 〜「あなたらしく！」（独立とマイペース）〜 */
+.wellbeing-head4{
+    margin: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.wellbeing41{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing41:hover{
+    opacity: 0.7;
+}
+.wellbeing42{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing42:hover{
+    opacity: 0.7;
+}
+.wellbeing43{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing43:hover{
+    opacity: 0.7;
+}
+.wellbeing44{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing44:hover{
+    opacity: 0.7;
+}
+.wellbeing45{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing45:hover{
+    opacity: 0.7;
+}
+.wellbeing46{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing46:hover{
+    opacity: 0.7;
+}
+.wellbeing47{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing47:hover{
+    opacity: 0.7;
+}
+.wellbeing48{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing48:hover{
+    opacity: 0.7;
+}
+.wellbeing49{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing49:hover{
+    opacity: 0.7;
+}
+.wellbeing410{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing410:hover{
+    opacity: 0.7;
+}
+.wellbeing411{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing411:hover{
+    opacity: 0.7;
+}
+.wellbeing412{
+    background-color: #F6C4E6;
+    margin-bottom: 10px;
+}
+.wellbeing412:hover{
+    opacity: 0.7;
+}
+.form-title41{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title42{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title43{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+/* 〜「あなたらしく！」（独立とマイペース）〜 */
+/* main */
